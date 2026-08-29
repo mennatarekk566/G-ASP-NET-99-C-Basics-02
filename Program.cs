@@ -59,7 +59,21 @@ namespace G_ASP_NET_99_C_Basics_02
             //int pages = Convert.ToInt32(pages_text);
             //Console.WriteLine($"pages_text is : {pages_text}");
             #endregion
-
+            #region
+            //string yearText = "2023";
+            //int.Parse(yearText);
+            //Console.WriteLine($"year text is {yearText}");
+            //string bad_text = "abc";
+            //bool IsValid = int.TryParse(bad_text, out int new_text);
+            //if (!IsValid)
+            //{
+            //    Console.WriteLine("invalid ");
+            //}       
+            //else
+            //{
+            //    Console.WriteLine("done");
+            //}
+            #endregion
 
         }
     }
