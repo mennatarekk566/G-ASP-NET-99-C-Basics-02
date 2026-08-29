@@ -49,6 +49,11 @@ namespace G_ASP_NET_99_C_Basics_02
             //double pages_double = page_number;
             //Console.WriteLine($"page_number os : {pages_double} ");
             #endregion
+            #region
+            //double price = 49.99;
+            //int NewPrice =(int)price;    //explicit 
+            //Console.WriteLine(NewPrice);
+            #endregion
 
 
         }
