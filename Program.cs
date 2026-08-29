@@ -8,7 +8,6 @@ namespace G_ASP_NET_99_C_Basics_02
         {
             //1st_anwer
             //    #region
-            book b = new book();
             //    b.tittle = "cukur";
             //    b.page_number = 310;
 
@@ -22,14 +21,30 @@ namespace G_ASP_NET_99_C_Basics_02
             //Console.WriteLine(b.Equals(b));
             //Console.WriteLine(b.GetType());
             #endregion
-
             #region
             ////int page_number = "301";  //it's compiler-time run
             //string input = "301";
             //int.TryParse(input , out int page_number);
             //Console.WriteLine(page_number);
-
             #endregion
+            #region
+            //try
+            //{
+            //    int a = 10;
+            //    int b = 0;
+            //    int result = a / b;
+            //    Console.WriteLine("result");
+            //}
+            //catch(DivideByZeroException)
+            //{
+            //    Console.WriteLine("invalid you can't divide by zero");
+            //}
+            //finally
+            //{
+            //    Console.WriteLine("done");
+            //}
+            //#endregion
+
 
 
         }
