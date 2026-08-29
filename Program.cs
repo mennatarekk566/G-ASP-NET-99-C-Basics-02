@@ -54,6 +54,11 @@ namespace G_ASP_NET_99_C_Basics_02
             //int NewPrice =(int)price;    //explicit 
             //Console.WriteLine(NewPrice);
             #endregion
+            #region
+            //string pages_text = "301";
+            //int pages = Convert.ToInt32(pages_text);
+            //Console.WriteLine($"pages_text is : {pages_text}");
+            #endregion
 
 
         }
