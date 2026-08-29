@@ -43,8 +43,12 @@ namespace G_ASP_NET_99_C_Basics_02
             //{
             //    Console.WriteLine("done");
             //}
-            //#endregion
-
+            #endregion
+            #region
+            //int page_number = 300;
+            //double pages_double = page_number;
+            //Console.WriteLine($"page_number os : {pages_double} ");
+            #endregion
 
 
         }
