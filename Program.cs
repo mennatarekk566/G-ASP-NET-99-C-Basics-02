@@ -74,6 +74,12 @@ namespace G_ASP_NET_99_C_Basics_02
             //    Console.WriteLine("done");
             //}
             #endregion
+            #region
+            //int pages = 301;
+            //string page_text=pages.ToString();
+            //Console.WriteLine(page_text);
+            //Console.WriteLine(page_text.GetType());
+            #endregion
 
         }
     }
