@@ -3,15 +3,16 @@
     internal class Program
     {
         static void Main(string[] args)
-        {
-            #region
-            book b = new book();
-            b.tittle = "cukur";
-            b.page_number = 310;
+        {   
+            //1st_anwer
+        //    #region
+        //    book b = new book();
+        //    b.tittle = "cukur";
+        //    b.page_number = 310;
 
-            object aras = b;
-            Console.WriteLine(aras);
-            #endregion
-        }
+        //    object aras = b;
+        //    Console.WriteLine(aras);
+        //    #endregion
+        
     }
 }
