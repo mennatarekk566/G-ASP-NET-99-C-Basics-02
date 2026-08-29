@@ -80,7 +80,14 @@ namespace G_ASP_NET_99_C_Basics_02
             //Console.WriteLine(page_text);
             //Console.WriteLine(page_text.GetType());
             #endregion
+            #region
+            int copies = 100;
+            object new_copies =copies;
+            int vers_copies=(int)copies;
+            Console.WriteLine(new_copies);
+            Console.WriteLine(vers_copies);
 
+            #endregion
         }
     }
 }
